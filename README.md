@@ -8,4 +8,6 @@ If red then the timeblock is current.
 If green, the timeblock has yet to come.
 
 You are able to create an event in a time block and save it using the save button. 
-By doing so, it will persist as it is saved to local storage.
+By doing so, it will persist as it is saved to local storage
+
+(Note: I accidently uploaded an old html at one point by accident)
